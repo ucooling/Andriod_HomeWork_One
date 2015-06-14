@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#0099AA</item>
+        <item name="colorPrimaryDark">#ff42aa0d</item>
+        <item name="android:textViewStyle">@style/AppTheme.TextView</item>
+        <item name="android:buttonStyle">@style/AppTheme.Btton</item>
+        <item name="colorControlHighlight">#ff1faa46</item>
+        <item name="colorButtonNormal">#0099AA</item>
+
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="AppTheme.TextView">
+        <item name="android:textColor">#cccccc</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="AppTheme.Btton" parent="Widget.AppCompat.Button">
+        <item name="android:width">24sp</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+
+</resources>

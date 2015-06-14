@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My first app</string>
+    <string name="input_message">Enter your message</string>
+    <string name="send_button">BUTTON</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_hello">Start new Activity 2</string>
+    <string name="title_activity_second">SecondActivity</string>
+</resources>
